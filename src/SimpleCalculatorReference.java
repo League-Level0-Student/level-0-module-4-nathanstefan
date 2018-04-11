@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class HappyPet {
+public class SimpleCalculatorReference {
 	
 	// 2. Add the following variable to the next line: static int happinessLevel = 0;
 	static int happinesslevel = 0;
